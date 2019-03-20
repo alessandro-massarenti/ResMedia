@@ -1,2 +1,2 @@
 # ResMedia
-ResMedia source
+ResMedia style source
